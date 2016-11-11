@@ -1,0 +1,45 @@
+.navbar {
+	background-color: #0D47A1;
+	font-weight: bold;
+}
+
+.navbar-default .navbar-brand {
+	color: white;
+}
+
+.navbar-nav {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+li > a {
+	background-color: #90CAF9;
+	border-style: solid;
+	border-width: 1px;
+}
+
+
+.navbar-default .navbar-nav>li>a {
+	color: black;
+	text-decoration: none;
+}
+
+h1 {
+	color: #1A237E;
+}
+
+h3 > a {
+	text-transform: uppercase;
+	color: black;
+	text-decoration: none;
+}
+
+.col-sm-12, .col-md-12, .col-lg-12 {
+	background-color: #2196F3;
+}
+
+.container {
+	padding: 0px;
+	width: 80%;
+	color: white;
+}
